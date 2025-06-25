@@ -2,3 +2,4 @@ baseURL = 'https://slinkum.dev/'
 languageCode = 'en-us'
 title = 'slinkum.dev'
 theme = 'risotto'
+enableRobotsTXT = true
