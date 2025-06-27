@@ -72,8 +72,9 @@ pagination.pagerSize = 5
 
 [languages.en.params]
   title = "slinkum.dev"
-  subtitle = "A simple, retro theme for Hugo"
+  subtitle = "a website, probably?"
   owner = "melloslinky"
+  author = "melloslinky"
   menuMore = "show more"
   readMore = "read more"
   readOtherPosts = "other posts"
