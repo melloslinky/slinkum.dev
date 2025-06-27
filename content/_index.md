@@ -1,2 +1,2 @@
-# slinkum.dev
-this is a website i think. kinda looks like one. idk man i'm just looking around
+# hi!
+oh yeah this is definitely a website. i'm totally sure of it. totally man
