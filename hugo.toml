@@ -1,4 +1,8 @@
 baseURL = 'https://slinkum.dev/'
+title = "slinkum.dev"
+subtitle = "a website, probably?"
+owner = "melloslinky"
+author = "melloslinky"
 cleanDestinationDir = true
 languageCode = 'en'
 theme = 'terminal'
@@ -71,10 +75,6 @@ pagination.pagerSize = 5
 
 
 [languages.en.params]
-  title = "slinkum.dev"
-  subtitle = "a website, probably?"
-  owner = "melloslinky"
-  author = "melloslinky"
   menuMore = "show more"
   readMore = "read more"
   readOtherPosts = "other posts"
@@ -91,9 +91,9 @@ pagination.pagerSize = 5
 
 [languages.en.menu]
   [[languages.en.menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "/about"
+    identifier = "posts"
+    name = " posts"
+    url = "/posts"
   [[languages.en.menu.main]]
     identifier = "comicwader"
     name = "comicwader"

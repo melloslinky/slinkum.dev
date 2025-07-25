@@ -1,2 +1,4 @@
-# hi!
-oh yeah this is definitely a website. i'm totally sure of it. totally man
+# hi!!
+i'm slink and this is a website.
+
+there's currently not much to see here.
