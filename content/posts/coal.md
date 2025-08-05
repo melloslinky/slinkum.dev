@@ -5,4 +5,4 @@ description = "this is coal"
 +++
 my good buddy coal wanted to be on the website so here he is ? ????
 
-![coal](/img/coal.png)
+![coal](/res/post/coal.png)
